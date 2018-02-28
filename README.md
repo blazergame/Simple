@@ -1,7 +1,7 @@
 # Simple
 
 ## Status
-- Development in proesss...
+- Development in process...
 
 ## Introduction
 This is a react native application that summerizes tech related news for quick and simple read
